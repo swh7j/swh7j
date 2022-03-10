@@ -1,7 +1,7 @@
 
 ## ▎About Me
 😄 신입개발자 : 신우현 😄 <br>
-💻 <a href="swh_77@naver.com">swh_77@naver.com</a> 💻
+💻 swh_77@naver.com 💻
 
 
 ## ▎Tech Stacks
