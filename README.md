@@ -1,4 +1,4 @@
-<div style="text-align:center;">
+
 ## ▎About Me
 😄 신입개발자 : 신우현 😄 <br>
 💻 swh_77@naver.com 💻
@@ -24,5 +24,5 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"> -->
-</div>
+
 
