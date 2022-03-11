@@ -2,7 +2,7 @@
 ## ▎About Me
 😄 신입개발자 : 신우현 😄 <br>
 💻 swh_77@naver.com 💻  
- <r>
+ <hr>
 
 ## ▎Tech Stacks
 - Front-end : 
