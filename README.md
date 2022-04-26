@@ -1,13 +1,15 @@
 
 ## ▎About Me
 😄 신입개발자 : 신우현 😄 <br>
-💻 swh_77@naver.com 💻  
+💻 swh_77@naver.com 💻 <br>
 
 ## ▎Projects 
 <li><a href="https://github.com/swh7j/hotel">java : 호텔예약시스템</a></li><br>
-<li><a href="https://github.com/swh7j/PC-room">javafx : pc방 client, admin, kiosk</a></li><br>
+<li><a href="https://github.com/swh7j/PC-room">javafx : pc방 사용자 및 관리자 시스템</a></li><br>
 <li><a href="https://github.com/swh7j/Yososu">jsp : 요소수 맵</a></li><br>
 <li><a href="https://github.com/swh7j/gongbang">spring : 원데이클래스</a></li><br>  
+
+▲ 해당 페이지마다 PPT, 시현영상 첨부되어 있습니다!!
      
 ## ▎Tech Stacks
 - Front-end : 
