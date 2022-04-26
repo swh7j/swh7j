@@ -4,10 +4,10 @@
 💻 swh_77@naver.com 💻  
 
 ## ▎Projects 
-<span><a href="https://github.com/swh7j/hotel">java : 호텔예약시스템</a></span><br>
-<span><a href="https://github.com/swh7j/PC-room">javafx : pc방 client, admin, kiosk</a></span><br>
-<span><a href="https://github.com/swh7j/Yososu">jsp : 요소수 맵</a></span><br>
-<span><a href="https://github.com/swh7j/gongbang">spring : 원데이클래스</a></span><br>  
+<li><a href="https://github.com/swh7j/hotel">java : 호텔예약시스템</a></li><br>
+<li><a href="https://github.com/swh7j/PC-room">javafx : pc방 client, admin, kiosk</a></li><br>
+<li><a href="https://github.com/swh7j/Yososu">jsp : 요소수 맵</a></li><br>
+<li><a href="https://github.com/swh7j/gongbang">spring : 원데이클래스</a></li><br>  
      
 ## ▎Tech Stacks
 - Front-end : 
