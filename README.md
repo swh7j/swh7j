@@ -2,7 +2,12 @@
 ## ▎About Me
 😄 신입개발자 : 신우현 😄 <br>
 💻 swh_77@naver.com 💻  
- 
+
+## ▎Projects 
+<span><a href="https://github.com/swh7j/hotel">java : 호텔예약시스템</a></span><br>
+<span><a href="https://github.com/swh7j/PC-room">javafx : pc방 client, admin, kiosk</a></span><br>
+<span><a href="https://github.com/swh7j/Yososu">jsp : 요소수 맵</a></span><br>
+<span><a href="https://github.com/swh7j/gongbang">spring : 원데이클래스</a></span><br>  
      
 ## ▎Tech Stacks
 - Front-end : 
@@ -19,14 +24,12 @@
 <span><img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></span>
 
-<!-- ## ▎Tools
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white">
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"> -->
+## ▎Tools
+<span><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"></span>
 
-## ▎Projects 
-<span><a href="https://github.com/swh7j/hotel">java : 호텔예약시스템</a></span><br>
-<span><a href="https://github.com/swh7j/PC-room">javafx : pc방 client, admin, kiosk</a></span><br>
-<span><a href="https://github.com/swh7j/Yososu">jsp : 요소수 맵</a></span><br>
-<span><a href="https://github.com/swh7j/gongbang">spring : 원데이클래스</a></span><br>  
+## ▎Studying Stacks
+
+
