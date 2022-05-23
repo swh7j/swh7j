@@ -38,7 +38,7 @@
 - Version Control : 
 <span><img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/SVN-F80000?style=flat-square&logo=SVN&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/SVN-1572B6?style=flat-square&logo=SVN&logoColor=white"/></span>
 
 ## ▎Tools
 
