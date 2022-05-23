@@ -33,7 +33,7 @@
 <span><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"></span>
 
 ## ▎Studying Stacks
-<li>React-Native</li>
+<li><img src="https://img.shields.io/badge/React-Native></li>
 <li>Java Script</li>
 <li>Node.js</li>
 
