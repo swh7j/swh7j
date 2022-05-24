@@ -25,7 +25,7 @@
 <span><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Maven-02303A?style=flat-square&logo=Maven&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Maven-02303B?style=flat-square&logo=Maven&logoColor=white"/></span>
 
 - Database : 
 <span><img src="https://img.shields.io/badge/PostgresSQL-F7DF1E?style=flat-square&logo=SQL&logoColor=white"/></span>
