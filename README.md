@@ -16,7 +16,7 @@
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Nexacro-7952B3?style=flat-square&logo=Nexacro&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Nexacro-181717?style=flat-square&logo=Nexacro&logoColor=white"/></span>
 
 - Back-end :
 <span><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></span>
