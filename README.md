@@ -27,7 +27,7 @@
 <span><img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/></span>
 
 - Database : 
-<span><img src="https://img.shields.io/badge/PostgresSQL-F7DF1E?style=flat-square&logo=PostgresSQL&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/PostgresSQL-F7DF1E?style=flat-square&logo=SQL&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></span>
