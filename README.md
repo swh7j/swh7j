@@ -40,7 +40,7 @@
 - Studying tool : 
 <span><img src="https://img.shields.io/badge/Node.js-6DB33F?style=flat-square&logo=Node.js&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React Native&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/></span>
 
 ## ▎Tools
 
