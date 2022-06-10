@@ -39,7 +39,7 @@
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/SVN-1572B6?style=flat-square&logo=Git&logoColor=white"/></span>
 
-- Studying tool : 
+- Studying : 
 <span><img src="https://img.shields.io/badge/Node.js-6DB33F?style=flat-square&logo=Node.js&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/></span>
