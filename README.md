@@ -4,11 +4,11 @@
 💻 swh_77@naver.com 💻 <br>
 
 ## ▎Projects 
-<li><a href="https://github.com/swh7j/hotel">java : 호텔예약 시스템</a></li><br>
-<li><a href="https://github.com/swh7j/PC-room">javafx : pc방 사용자 및 관리자 시스템</a></li><br>
-<li><a href="https://github.com/swh7j/Yososu">jsp : (요소수)주유소 찾기 웹사이트</a></li><br>
-<li><a href="https://github.com/swh7j/gongbang">spring : 원데이클래스(공방수업) 웹사이트</a></li><br>  
-<li><a href="https://github.com/swh7j/AlleyAcademy">react : 학원 찾기 웹사이트</a></li><br>  
+<li><a href="https://github.com/swh7j/hotel">java : 호텔예약 시스템 </a></li><br>
+<li><a href="https://github.com/swh7j/PC-room">javafx : pc방 사용자 및 관리자 시스템 </a></li><br>
+<li><a href="https://github.com/swh7j/Yososu">jsp : (요소수)주유소 찾기 웹사이트 </a></li><br>
+<li><a href="https://github.com/swh7j/gongbang">spring : 원데이클래스(공방수업) 웹사이트 </a></li><br>  
+<li><a href="https://github.com/swh7j/AlleyAcademy">react : 학원 찾기 웹사이트 </a></li><br>  
 
 ▲ 해당 페이지마다 PPT, 시현영상 첨부되어 있습니다!!
      
