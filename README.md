@@ -38,7 +38,7 @@
 
 > Portfolio
 > ---
->> ### [ Notion ](https://www.notion.so/1209f1bedcdf42b89c90af8586b071b2) 포트폴리오 정리되어 있습니다.
+>> ### [ Notion ](https://www.notion.so/invite/a258a209feca4663197a1bedec503cabfd01c6b5) 포트폴리오 정리되어 있습니다.
 
  
 <br />
