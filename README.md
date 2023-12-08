@@ -8,7 +8,6 @@
 >> ---
 >>> * 😄 Name : Shin Woo Hyun  
 >>> + 💻 E-mail : swh_77@naver.com
->>> + :clipboard:  Hope : Back-End/Full-Stack
 <br />
 <br />
 
