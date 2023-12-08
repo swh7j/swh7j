@@ -1,54 +1,44 @@
 
-## ▎About Me
-😄 신입개발자 : 신우현 😄 <br>
-💻 swh_77@naver.com 💻 <br>
 
-## ▎Projects 
-<li><a href="https://github.com/swh7j/hotel">java : 호텔예약 시스템 </a></li><br>
-<li><a href="https://github.com/swh7j/PC-room">javafx : pc방 사용자 및 관리자 시스템 </a></li><br>
-<li><a href="https://github.com/swh7j/Yososu">jsp : (요소수)주유소 찾기 웹사이트 </a></li><br>
-<li><a href="https://github.com/swh7j/gongbang">spring : 원데이클래스(공방수업) 웹사이트 </a></li><br>  
-<li><a href="https://github.com/swh7j/AlleyAcademy">react : 학원 찾기 웹사이트(진행중) </a></li><br>  
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=현재%20진행형人%20신%20우현&fontSize=90)
 
-▲ 해당 페이지마다 PPT, 시현영상 첨부되어 있습니다!!
-     
-## ▎Tech Stacks
-- Front-end : 
-<span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Nexacro-181717?style=flat-square&logo=Nexacro&logoColor=white"/></span>
+> About Me
+> ---
+>> Developer
+>> ---
+>>> * :😄: Name : Shin Woo Hyun  
+>>> + :💻: E-mail : swh_77@naver.com
+>>> + :clipboard:  Hope : Back-End/Full-Stack
+<br />
+<br />
 
-- Back-end :
-<span><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Maven-02303B?style=flat-square&logo=Maven&logoColor=white"/></span>
+> Stack
+> ---
+>> ### Front-end  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/-HTML5-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/Jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/BootStrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Nexacro-181717?style=flat-square&logo=Nexacro&logoColor=white"/>
+>> ### Back-end  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=JSP&logoColor=white"> <img src="https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">  <img src="https://img.shields.io/badge/GRADLE-02303A?style=for-the-badge&logo=gradle&logoColor=white"> <img src="https://img.shields.io/badge/-Maven-%23C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white">
+>> ### Version_Control  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/-SVN-blue?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/-Notion-white?style=for-the-badge&logo=Notion&logoColor=black"> <img src="https://img.shields.io/badge/-Sourcetree-%230052CC?style=for-the-badge&logo=Sourcetree&logoColor=white"> <img src="https://img.shields.io/badge/BitBucket%230052CC?style=for-the-badge&logo=BitBucket&logoColor=white"><img src="https://img.shields.io/badge/PostgresSQL-F7DF1E?style=flat-square&logo=SQL&logoColor=white"/>
+>> ### Database  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/PostgresSQL-F7DF1E?style=flat-square&logo=SQL&logoColor=white"/>
+>> ### Tools  <img src="https://img.shields.io/badge/-Eclipse%20IDE-%232C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"> <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-%23000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white"> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"> <img src="https://img.shields.io/badge/-Visual%20Studio-%235C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white">
+>> ### Infra <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 
-- Database : 
-<span><img src="https://img.shields.io/badge/PostgresSQL-F7DF1E?style=flat-square&logo=SQL&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></span>
+>> ### Studying  <img src="https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white">
 
-- Version Control : 
-<span><img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/SVN-1572B6?style=flat-square&logo=Git&logoColor=white"/></span>
+<br />
+<br /> 
 
-- Studying : 
-<span><img src="https://img.shields.io/badge/Node.js-6DB33F?style=flat-square&logo=Node.js&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/></span>
+> Projects 
+> ---
+>> ### [ Java_Console ](https://github.com/swh7j/hotel) : 호텔예약 관리프로그램  
+>> ### [ JavaFX ](https://github.com/swh7j/PC-room) : pc방 사용자 및 관리자 시스템
+>> ### [ JSP ](https://github.com/swh7j/Yososu) : (요소수)주유소 찾기 웹사이트 
+>> ### [ Spring ](https://github.com/swh7j/gongbang) : 주주클럽  
+>> ### [ React ](https://github.com/swh7j/AlleyAcademy) :  학원 찾기 웹사이트(공부 중)  
+ 
+<br  />
+<br />
 
-## ▎Tools
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
-<span><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></span>
 
 
 
