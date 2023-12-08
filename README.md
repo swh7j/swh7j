@@ -20,8 +20,7 @@
 >> ### Database  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
 >> ### Tools  <img src="https://img.shields.io/badge/-Eclipse%20IDE-%232C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"> <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-%23000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white"> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"> <img src="https://img.shields.io/badge/-Visual%20Studio-%235C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white">
 >> ### Infra <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"/> <img src="https://img.shields.io/badge/Xshell-232F3E?style=for-the-badge&logo=Xshell&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/PostMan-FF6C37?style=for-the-badge&logo=PostMan&logoColor=white"/>
-
->> ### Studying  <img src="https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white">  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=black">
+>> ### Studying  <img src="https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white">  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> 
 
 <br />
 <br /> 
@@ -31,13 +30,16 @@
 >> ### [ Java_Console ](https://github.com/swh7j/hotel) : 호텔예약 관리프로그램  
 >> ### [ JavaFX ](https://github.com/swh7j/PC-room) : pc방 사용자 및 관리자 시스템
 >> ### [ JSP ](https://github.com/swh7j/Yososu) : (요소수)주유소 찾기 웹사이트 
->> ### [ Spring ](https://github.com/swh7j/gongbang) : 주주클럽  
+>> ### [ Spring ](https://github.com/swh7j/gongbang) : 원데이 클래스 '공방' 웹사이트  
 >> ### [ React ](https://github.com/swh7j/AlleyAcademy) :  학원 찾기 웹사이트(공부 중)  
 
 
 <br />
 <br /> 
-## [ Notion ](https://purrfect-mile-cdc.notion.site/Bokyun-Kang-fab3882e2b334ad8b6b84f9f43e2d30a) 포트폴리오 정리되어 있습니다.
+
+> Portfolio
+> ---
+> ## [ Notion ](https://purrfect-mile-cdc.notion.site/Bokyun-Kang-fab3882e2b334ad8b6b84f9f43e2d30a) 포트폴리오 정리되어 있습니다.
 
  
 <br  />
