@@ -38,7 +38,7 @@
 
 > Portfolio
 > ---
->> ### [ Notion ](https://www.notion.so/invite/a258a209feca4663197a1bedec503cabfd01c6b5)
+>> ### [ Notion ](https://phrygian-pound-13d.notion.site/WooHyun-024718d0d910435ab962a275306c0aab?pvs=4)
 >> 포트폴리오 정리되어 있습니다.
 
  
