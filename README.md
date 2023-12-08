@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=현재%20진행형人%20신%20우현&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=현재%20진행형人%20신우현&fontSize=80)
 
 > About Me
 > ---
@@ -33,6 +33,9 @@
 >> ### [ JSP ](https://github.com/swh7j/Yososu) : (요소수)주유소 찾기 웹사이트 
 >> ### [ Spring ](https://github.com/swh7j/gongbang) : 주주클럽  
 >> ### [ React ](https://github.com/swh7j/AlleyAcademy) :  학원 찾기 웹사이트(공부 중)  
+
+## [ Notion ](https://purrfect-mile-cdc.notion.site/Bokyun-Kang-fab3882e2b334ad8b6b84f9f43e2d30a) 포트폴리오 정리되어 있습니다.
+
  
 <br  />
 <br />
