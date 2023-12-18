@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=현재%20진행형人%202년차%20서버개발자%20신우현입니다.&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=현재%20진행형人%202년차%20서버개발자%20신우현입니다.&fontSize=30)
 
 > About Me
 > --- 
@@ -45,7 +45,7 @@
 <br />
 <br />
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
 
 
