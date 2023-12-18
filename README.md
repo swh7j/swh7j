@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=현재%20진행형人%20신우현&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=현재%20진행형人%202년차%20주니어개발자%20신우현입니다.&fontSize=60)
 
 > About Me
 > --- 
