@@ -31,7 +31,8 @@
 >> ### [ JavaFX ](https://github.com/swh7j/PC-room) : pc방 사용자 및 관리자 시스템
 >> ### [ JSP ](https://github.com/swh7j/Yososu) : (요소수)주유소 찾기 웹사이트 
 >> ### [ Spring ](https://github.com/swh7j/gongbang) : 원데이 클래스 '공방' 웹사이트  
->> ### [ React ](https://github.com/swh7j/AlleyAcademy) :  학원 찾기 웹사이트(공부 중)  
+>> ### [ React ](https://github.com/swh7j/AlleyAcademy) :  학원 찾기 웹사이트(공부 중)
+>> ### [ Next ](https://github.com/swh7j/nextapp/tree/master) : 기본 공부 중 
 
 
 <br />
