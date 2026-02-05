@@ -82,23 +82,23 @@ Spring Boot 기반 **실서비스를 운영해온 4년차 백엔드 개발자**�
 src/main/java
 └── com.example.project
 ├── config
-│   ├── filter          # CORS 등 공통 필터
-│   ├── interceptor     # 인증 / 요청 검증
-│   ├── CacheConfig
-│   ├── QuerydslConfig
-│   └── InterceptorConfig
-├── controller          # REST API 엔드포인트
-├── service             # 비즈니스 로직
-├── repository          # DB 접근 계층
-├── dto                 # 요청 / 응답 DTO
-├── exception           # 전역 예외 처리
-│   ├── ExceptionAdvice
-│   ├── ErrorResponse
-│   └── Errors
+│ ├── filter # CORS 등 공통 필터
+│ ├── interceptor # 인증 / 요청 검증
+│ ├── CacheConfig
+│ ├── QuerydslConfig
+│ └── InterceptorConfig
+├── controller # REST API 엔드포인트
+├── service # 비즈니스 로직
+├── repository # DB 접근 계층
+├── dto # 요청 / 응답 DTO
+├── exception # 전역 예외 처리
+│ ├── ExceptionAdvice
+│ ├── ErrorResponse
+│ └── Errors
 └── util
-├── jwt             # JWT 인증
-├── payment         # 결제 / 암호화
-├── upload          # 파일 업로드 (S3)
+├── jwt # JWT 인증
+├── payment # 결제 / 암호화
+├── upload # 파일 업로드 (S3)
 └── common
 
 ### Structure Principles
