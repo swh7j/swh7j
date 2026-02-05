@@ -3,7 +3,7 @@
 Spring Boot 기반 라이브 서비스 백엔드 개발·운영을 담당하고 있습니다. <br/>
 서비스 안정성, 성능 개선, 유지보수성을 우선으로 개발합니다. <br/>
 <br/>
-⸻ <br/>
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻ <br/>
 <br/>
 🧑‍💻 About Me <br/>
 	•	4년차 백엔드 개발자 <br/>
@@ -11,7 +11,7 @@ Spring Boot 기반 라이브 서비스 백엔드 개발·운영을 담당하고 
 	•	라이브 서비스 장애 대응 및 성능 개선 경험 <br/>
 	•	SI → 서비스 회사 이직 경험 <br/>
 <br/>
-⸻ <br/>
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻ <br/>
 <br/>
 🛠 Tech Stack <br/>
 <br/>
@@ -41,7 +41,7 @@ Studying <br/>
 	•	Docker <br/>
 	•	React, Next.js <br/>
 <br/>
-⸻ <br/>
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻ <br/>
 <br/>
 🚀 Main Projects <br/>
 <br/>
@@ -59,7 +59,7 @@ Studying <br/>
 Tech <br/>
 Java · Spring Boot · MySQL · AWS EC2 · Linux <br/>
 <br/>
-⸻ <br/>
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻ <br/>
 <br/>
 🖥 JellyPet Admin Web <br/>
 <br/>
@@ -72,7 +72,7 @@ Java · Spring Boot · MySQL · AWS EC2 · Linux <br/>
 Tech<br/>
 Java · JSP · MySQL · Tomcat<br/>
 <br/>
-⸻<br/>
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻ <br/>
 <br/>
 🏢 HRIntro SI Projects<br/>
 <br/>
@@ -90,7 +90,7 @@ Role<br/>
 Tech<br/>
 Java · Spring Boot · JSP · MyBatis · PostgreSQL<br/>
 <br/>
-⸻<br/>
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻ <br/>
 <br/>
 🧱 Project Structure Example<br/>
 src/main/java <br/>
@@ -104,7 +104,7 @@ src/main/java <br/>
     └── util            # 공통 기능 (인증, 업로드 등) <br/>
 
 <br/>
-⸻<br/>
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻ <br/>
 <br/>
 💡 Development Focus <br/>
 	•	Controller는 얇게, 비즈니스 로직은 Service에서 처리 <br/>
@@ -112,14 +112,14 @@ src/main/java <br/>
 	•	전역 예외 처리로 일관된 API 응답 제공<br/>
 	•	운영 중 발생한 이슈를 구조 개선으로 해결<br/>
 <br/>
-⸻<br/>
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻ <br/>
 <br/>
 📌 Additional<br/>
 	•	서비스 장애 발생 시 신속 대응 경험 <br/>
 	•	협업과 커뮤니케이션을 중요하게 생각함 <br/>
 	•	코드보다 유지보수 가능한 구조를 우선 <br/>
 <br/>
-⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻ <br/>
 <br/>
 🔗 Links<br/>
 	•	GitHub: https://github.com/swh7j/swh7j <br/>
