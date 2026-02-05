@@ -122,5 +122,5 @@ src/main/java <br/>
 ⸻
 <br/>
 🔗 Links<br/>
-	•	GitHub: https://github.com/your-id <br/>
-	•	Notion: https://notion.link
+	•	GitHub: https://github.com/swh7j/swh7j <br/>
+	•	Notion: https://phrygian-pound-13d.notion.site/WooHyun-024718d0d910435ab962a275306c0aab?pvs=4
