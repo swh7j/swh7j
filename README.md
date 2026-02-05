@@ -100,6 +100,8 @@ src/main/java
 ├── payment # 결제 / 암호화
 ├── upload # 파일 업로드 (S3)
 └── common
+
+
 ### Structure Principles
 - **Controller:** 요청 처리, 비즈니스 로직 최소화
 - **Service:** 핵심 도메인 로직 담당
