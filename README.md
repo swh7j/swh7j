@@ -77,8 +77,7 @@ Spring Boot 기반 **실서비스를 운영해온 4년차 백엔드 개발자**�
 
 ---
 
-## 🏗 Project Skeleton
-
+## 🏗 Project Structure
 src/main/java
 └── com.example.project
 ├── config
