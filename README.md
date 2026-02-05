@@ -39,6 +39,20 @@ Spring Boot 기반 **실서비스를 운영해온 4년차 백엔드 개발자**�
 
 ## 💼 Experience
 
+### HRIntro / SI Projects (2022.03 ~ 2023.04)
+**Role:** Backend Developer
+
+- 파주시청 시스템  
+  - CRUD 및 대시보드 개발
+- JAS 직무분석 시스템  
+  - 평가서 생성/확인 기능 개발
+  - Admin 페이지 유지보수
+- 롯데캐피탈 평가 시스템  
+  - 신규 기능 개발 및 평가 부문 담당
+- 농협 IT센터 자재유통 시스템  
+  - AS-IS → TO-BE 전환 개발
+  - 백엔드/프론트 공통 라이브러리 개발
+
 ### 두댓 / JellyPet (2023.04 ~ 현재)
 **Role:** Backend Developer / Server Operation
 
@@ -96,22 +110,6 @@ src/main/java
 - **Config:** 공통 설정 및 요청 흐름 제어
 - **Exception:** 전역 예외 처리 및 일관된 에러 응답
 - **Util:** 인증, 결제, 업로드 등 공통 기능 모듈화
-
----
-
-### HRIntro / SI Projects (2022.03 ~ 2023.04)
-**Role:** Backend Developer
-
-- 파주시청 시스템  
-  - CRUD 및 대시보드 개발
-- JAS 직무분석 시스템  
-  - 평가서 생성/확인 기능 개발
-  - Admin 페이지 유지보수
-- 롯데캐피탈 평가 시스템  
-  - 신규 기능 개발 및 평가 부문 담당
-- 농협 IT센터 자재유통 시스템  
-  - AS-IS → TO-BE 전환 개발
-  - 백엔드/프론트 공통 라이브러리 개발
 
 ---
 
