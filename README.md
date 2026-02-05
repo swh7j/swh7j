@@ -93,15 +93,15 @@ Java · Spring Boot · JSP · MyBatis · PostgreSQL
 ⸻
 
 🧱 Project Structure Example
-src/main/java
-└── com.company.project
-    ├── config          # 공통 설정 (Filter / Interceptor)
-    ├── controller      # API 엔드포인트
-    ├── service         # 비즈니스 로직
-    ├── repository      # DB 접근 계층
-    ├── dto             # 요청/응답 DTO
-    ├── exception       # 전역 예외 처리
-    └── util            # 공통 기능 (인증, 업로드 등)
+src/main/java <br/>
+└── com.company.project <br/>
+    ├── config          # 공통 설정 (Filter / Interceptor) <br/>
+    ├── controller      # API 엔드포인트 <br/>
+    ├── service         # 비즈니스 로직 <br/>
+    ├── repository      # DB 접근 계층 <br/>
+    ├── dto             # 요청/응답 DTO <br/>
+    ├── exception       # 전역 예외 처리 <br/>
+    └── util            # 공통 기능 (인증, 업로드 등) 
 
 
 ⸻
@@ -115,12 +115,12 @@ src/main/java
 ⸻
 
 📌 Additional
-	•	서비스 장애 발생 시 신속 대응 경험
-	•	협업과 커뮤니케이션을 중요하게 생각함
-	•	코드보다 유지보수 가능한 구조를 우선
+	•	서비스 장애 발생 시 신속 대응 경험 <br/>
+	•	협업과 커뮤니케이션을 중요하게 생각함 <br/>
+	•	코드보다 유지보수 가능한 구조를 우선 <br/>
 
 ⸻
 
 🔗 Links
-	•	GitHub: https://github.com/your-id
+	•	GitHub: https://github.com/your-id <br/>
 	•	Notion: https://notion.link
