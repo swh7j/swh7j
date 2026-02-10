@@ -47,7 +47,7 @@ Spring Boot 기반 실서비스를 운영해온 4년차 백엔드 개발자입�
 
 ### 두댓 / JellyPet
 `2023.04 ~ 현재`  
-**Role: Backend Developer / Server Operation**
+**Role: Backend Developer / Server Operations**
 
 #### Overview
 Spring Boot 기반 **앱 API 서버 및 Admin 웹**을 개발·운영하며  
