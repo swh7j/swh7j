@@ -79,7 +79,7 @@ Spring Boot 기반 **실서비스를 운영해온 4년차 백엔드 개발자**�
 
 <pre>
 src/main/java
-└── com.example.project
+└── com.exam.project
     ├── config
     │   ├── filter          # CORS 등 공통 필터
     │   ├── interceptor     # 인증 / 요청 검증
