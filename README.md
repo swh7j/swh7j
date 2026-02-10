@@ -26,9 +26,8 @@ Spring Boot 기반 실서비스를 운영해온 4년차 백엔드 개발자입�
 - JSP
 
 ### Data Access
-- **App API**: JPA / Hibernate, Native Query
+- **App API**: JPA / Hibernate, QueryDSL, Native Query
 - **Admin Web**: MyBatis
-- QueryDSL
 
 ### Database
 - MySQL
