@@ -39,7 +39,7 @@ Spring Boot 기반 실서비스를 운영해온 4년차 백엔드 개발자입�
 
 ### Tools
 - GitHub, GitLab, Bitbucket
-- Postman, Mantis
+- Postman, Mantis, Xshell
 
 ---
 
