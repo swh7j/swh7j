@@ -108,5 +108,5 @@
 ## 🔗 Links
 
 - [GitHub](https://github.com/swh7j)
-- [Portfolio / Resume](https://phrygian-pound-13d.notion.site/WooHyun-024718d0d910435ab962a275306c0aab)
+- [Notion](https://phrygian-pound-13d.notion.site/WooHyun-024718d0d910435ab962a275306c0aab)
 - Email: swh_77@naver.com
