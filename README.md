@@ -105,4 +105,4 @@
 
 - [GitHub](https://github.com/swh7j)
 - [Notion](https://phrygian-pound-13d.notion.site/WooHyun-024718d0d910435ab962a275306c0aab)
-- [Email][swh_77@naver.com](mailto:swh_77@naver.com)
+- [swh_77@naver.com](mailto:swh_77@naver.com)
