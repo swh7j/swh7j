@@ -51,3 +51,58 @@
 - 파주시청 공공 시스템 유지보수
 - JAS 직무분석 시스템 유지보수
 - 공통 라이브러리 및 MyBatis 기반 업무 로직 개발
+
+
+## 🛠 Tech Stack
+
+### Backend
+
+☕ **Java** · 🌱 **Spring Boot** · 🔧 **Spring Framework** · 🌐 **REST API**
+
+### Frontend
+
+⚛️ **React** · 📄 **JSP**
+
+### Data Access
+
+🔷 **JPA / Hibernate** · 🔍 **QueryDSL** · 🗃️ **MyBatis** · 📝 **Native Query**
+
+### Database
+
+🐬 **MySQL** · 🐘 **PostgreSQL** · 🔴 **Oracle**
+
+### Cache / Messaging
+
+🔴 **Redis** · 📨 **Apache Kafka** · 🔄 **Consumer Group** · ↩️ **Retry** · ⚠️ **DLT**
+
+### Infrastructure / DevOps
+
+☁️ **AWS EC2 / RDS / S3** · 🐧 **Linux**  
+🐳 **Docker / Docker Compose** · 🌐 **Nginx** · 🐈 **Tomcat**
+
+### CI/CD
+
+🚀 **GitHub Actions** · 🐘 **Gradle** · 🔀 **Git**
+
+### Monitoring
+
+🔥 **Prometheus** · 📈 **Grafana** · 🚨 **Alertmanager** · ❤️ **Spring Boot Actuator**
+
+### AI / External API
+
+✨ **Google Gemini API** · 🔗 **RestTemplate**
+
+### Testing
+
+🧪 **JUnit 5** · 🎭 **Mockito** · 🌱 **Spring Boot Test** · 📊 **k6**
+
+### Tools
+
+🐙 **GitHub / GitLab / Bitbucket** · 📮 **Postman**  
+💬 **Slack** · 🖥️ **Xshell** · 🔧 **Mantis**
+
+## 🔗 Links
+
+- [GitHub](https://github.com/swh7j)
+- [Notion](https://phrygian-pound-13d.notion.site/WooHyun-024718d0d910435ab962a275306c0aab)
+- [Email][swh_77@naver.com](mailto:swh_77@naver.com)
