@@ -78,52 +78,50 @@
 
 ## 🛠 Tech Stack
 
-### Backend
+### 💻 Backend
 
-**Java** · **Spring Boot** · **Spring Framework** · **REST API**  
-**Spring Security** · **JWT**
+☕ **Java** · 🌱 **Spring Boot** · 🔧 **Spring Framework** · 🌐 **REST API**  
+🔐 **Spring Security** · 🎫 **JWT**
 
-### Frontend
+### 🖥 Frontend
 
-**React** · **JSP**
+⚛️ **React** · 📄 **JSP**
 
-### Data Access
+### 🗄 Data Access
 
-**Spring Data JPA** · **Hibernate** · **QueryDSL** · **MyBatis** · **Native Query**
+🔷 **Spring Data JPA** · 💤 **Hibernate** · 🔍 **QueryDSL** · 🗃️ **MyBatis** · 📝 **Native Query**
 
-### Database
+### 🗄 Database
 
-**MySQL** · **PostgreSQL** · **Oracle**
+🐬 **MySQL** · 🐘 **PostgreSQL** · 🔴 **Oracle**
 
-### Cache / Messaging
+### ⚡ Cache / Messaging
 
-**Redis** · **Apache Kafka** · **Consumer Group** · **Retry / DLT**
+🔴 **Redis** · 📨 **Apache Kafka** · 👥 **Consumer Group** · 🔄 **Retry / DLT**
 
-### Infrastructure / DevOps
+### ☁️ Infrastructure / DevOps
 
-**AWS EC2 / RDS / S3** · **Linux**  
-**Docker / Docker Compose** · **Nginx** · **Tomcat**
+☁️ **AWS EC2 / RDS / S3** · 🐧 **Linux** . 🐳 **Docker / Docker Compose** · 🌐 **Nginx** · 🐈 **Tomcat**
 
-### CI/CD
+### 🔄 CI/CD
 
-**GitHub Actions** · **Gradle** · **Git**
+🚀 **GitHub Actions** · 🐘 **Gradle** · 🔀 **Git**
 
-### Monitoring
+### 📊 Monitoring
 
-**Prometheus** · **Grafana** · **Alertmanager** · **Spring Boot Actuator**
+🔥 **Prometheus** · 📈 **Grafana** · 🚨 **Alertmanager** · ❤️ **Spring Boot Actuator**
 
-### AI / External API
+### 🤖 AI / External API
 
-**Google Gemini API** · **RestTemplate**
+✨ **Google Gemini API** · 🔗 **RestTemplate**
 
-### Testing
+### 🧪 Testing
 
-**JUnit 5** · **Mockito** · **Spring Boot Test** · **k6**
+🧪 **JUnit 5** · 🎭 **Mockito** · 🌱 **Spring Boot Test** · 📊 **k6**
 
-### Tools
+### 🧰 Tools
 
-**GitHub / GitLab / Bitbucket** · **Postman** · **Slack** · **Xshell** · **Mantis**
-
+🐙 **GitHub / GitLab / Bitbucket** · 📮 **Postman** . 💬 **Slack** · 🖥️ **Xshell** · 🔧 **Mantis**
 ---
 
 ## 🔗 Links
