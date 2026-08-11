@@ -61,7 +61,6 @@
 - Admin 기능 및 운영 개선
 - 파일 업로드 및 AWS S3 기반 파일 저장
 - Gemini API + Redis 기반 Admin 고객 문의 요약 및 답변 초안 기능 구현
-- React 기반 Admin 화면 부분 전환
 
 ---
 
@@ -106,7 +105,7 @@
 
 ### ☁️ Infrastructure / DevOps
 
-☁️ **AWS EC2 / RDS / S3** · 🐧 **Linux** . 🐳 **Docker / Docker Compose** · 🌐 **Nginx** · 🐈 **Tomcat**
+☁️ **AWS EC2 / RDS / S3** · 🐧 **Linux** · 🐳 **Docker / Docker Compose** · 🌐 **Nginx** · 🐈 **Tomcat**
 
 ### 🔄 CI/CD
 
