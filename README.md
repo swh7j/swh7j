@@ -49,6 +49,8 @@
 - 🤖 Gemini API + Redis 기반 **Admin 고객 문의 요약 기능** 구현
 - 📊 Prometheus / Grafana / Alertmanager 기반 **모니터링 및 장애 알림** 구축
 - 🚀 GitHub Actions 기반 **CI/CD 및 AWS EC2 자동 배포** 구축
+- 🧪 k6 + Prometheus / Grafana 기반 API 부하테스트 및 성능 지표 검증 환경 구축
+- ⚛️ 기존 JSP Admin의 일부 화면을 React 기반으로 부분 전환
 
 #### 🧩 주요 개발
 
