@@ -34,6 +34,8 @@
 - GitHub Actions 기반 CI/CD 및 AWS EC2 자동 배포
 - Prometheus / Grafana / Alertmanager 기반 모니터링 구축
 - React 기반 Admin 화면 부분 전환
+- 기획 / 디자인 요구사항 확인 및 Figma 기반 UI·기능 협업
+- 개발 일정 및 기능 변경사항 공유를 통한 기획·디자인 협업
 
 #### 🚀 주요 성과
 
@@ -121,7 +123,7 @@
 
 ### 🧰 Tools
 
-🐙 **GitHub / GitLab / Bitbucket** · 📮 **Postman** . 💬 **Slack** · 🖥️ **Xshell** · 🔧 **Mantis**
+🐙 **GitHub / GitLab / Bitbucket** · 📮 **Postman** . 💬 **Slack** · 🎨 **Figma** · 🖥️ **Xshell** · 🔧 **Mantis**
 
 ---
 
