@@ -58,6 +58,7 @@
 - Scheduler 기반 주문 상태 변경 및 운영 업무 자동화
 - Admin 기능 및 운영 개선
 - 파일 업로드 및 AWS S3 기반 파일 저장
+- Gemini API + Redis 기반 Admin 고객 문의 요약 및 답변 초안 기능 구현
 - React 기반 Admin 화면 부분 전환
 
 ---
