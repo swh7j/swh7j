@@ -1,112 +1,119 @@
-# 👋 WooHyun | Backend Developer
+👋 WooHyun | Backend Developer
 
-**Spring Boot 기반 실서비스를 개발·운영해온 4.5년차 백엔드 개발자입니다.**
+Spring Boot 기반 실서비스를 개발·운영해온 4.5년차 백엔드 개발자입니다.
 
-1인 개발 체제로 **App API · Admin · DB · AWS 인프라 · 배포 · 운영**까지 경험했으며,
-실서비스의 성능 저하와 장애, 데이터 처리 문제를 원인부터 분석하고 구조적으로 개선해왔습니다.
+1인 개발 환경에서 App API · Admin · DB · AWS 인프라 · 배포 · 운영까지 서비스 전반을 담당했으며, 실서비스에서 발생하는 성능 저하와 장애, 데이터 처리 문제를 원인부터 분석하고 구조적으로 개선해왔습니다.
 
----
+🛠 Tech Stack
+Backend
 
-## 🛠 Tech Stack
+☕ Java · 🌱 Spring Boot · Spring Framework · REST API
 
-### Backend
+Data Access
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![QueryDSL](https://img.shields.io/badge/QueryDSL-2088FF?style=flat-square)
-![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square)
-![JSP](https://img.shields.io/badge/JSP-5382A1?style=flat-square)
+🔷 JPA / Hibernate · 🔍 QueryDSL · 🗃️ MyBatis · 📝 Native Query
 
-### Database / Cache / Messaging
+Frontend
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+📄 JSP · ⚛️ React
 
-### Infrastructure / DevOps
+Database / Cache / Messaging
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+🐬 MySQL · 🐘 PostgreSQL · 🔴 Redis · 📨 Apache Kafka
+🔄 Consumer Group · Retry · DLT
 
-### Monitoring / AI
+Infrastructure / DevOps
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+☁️ AWS EC2 · RDS · S3 · 🐧 Linux
+🐳 Docker · Docker Compose · 🌐 Nginx · 🐈 Tomcat
 
----
+CI/CD / Monitoring
 
-## 💼 Experience
+🚀 GitHub Actions · 🐘 Gradle · 🔀 Git
+🔥 Prometheus · 📈 Grafana · 🚨 Alertmanager · ❤️ Spring Boot Actuator
 
-### 두댓 / JellyPet
+Testing
 
-**Backend Developer · 2023.04 ~ 현재**
+🧪 JUnit 5 · 🎭 Mockito · 🌱 Spring Boot Test · 📊 k6
 
-모바일 커머스 플랫폼의 **App API / Admin / DB / Infra** 개발 및 운영
+AI / External API
 
-- 1인 개발 체제로 서비스 개발 및 운영
-- AWS EC2 / Docker 기반 운영 환경 구성
-- Redis 기반 캐시 구조 설계 및 운영
-- Kafka 기반 비동기 메시지 처리
-- GitHub Actions 기반 CI/CD 및 자동 배포
-- Prometheus / Grafana / Alertmanager 모니터링 구축
+✨ Google Gemini API · 🔗 RestTemplate
 
-### 🚀 주요 성과
+💼 Experience
+두댓 / JellyPet
 
-- 🏠 홈 API 응답 시간 **10초 → 3초**
-- 📱 5천 건 Push 처리 시간 **약 5분 → 10초대**
-- ⬆️ Spring Boot **2.3.4 → 2.7.18**
-- 🗄️ MySQL **5.7 → 8.4.9**
-- 💰 AWS 운영 비용 **월 $536 → $323 수준**
-- ⚡ FCM 직접 발송 → **Kafka 비동기 처리**
-- 🔄 Ehcache → **Redis 캐시 구조 전환**
-- 🤖 Gemini API 기반 **Admin 문의 요약 기능 구현**
-- 📊 Prometheus / Grafana / Alertmanager 기반 **모니터링 구축**
-- 🚀 GitHub Actions 기반 **CI/CD 및 AWS EC2 자동 배포**
+Backend Developer · 2023.04 ~ 현재
 
-### 주요 개발
+모바일 커머스 플랫폼의 App API / Admin / DB / Infrastructure 개발 및 운영
 
-- 커뮤니티 / 쿠폰 / Jelly 리뷰 / Jelly 룰렛
-- 첫 구매 정책 및 대상자 산정
-- 랭킹 정책 및 관련 로직 개선
-- Scheduler 기반 운영 업무 자동화
-- Admin 기능 및 운영 개선
+1인 개발 환경에서 서비스 기능 개발 및 운영 전반 담당
+AWS EC2 / Docker 기반 운영 환경 구성 및 관리
+Redis 기반 캐시 구조 설계 및 운영
+Kafka 기반 비동기 메시지 처리 및 대량 Push 처리 구조 구축
+GitHub Actions 기반 CI/CD 및 AWS EC2 자동 배포 환경 구축
+Prometheus / Grafana / Alertmanager 기반 모니터링 및 장애 알림 환경 구축
+JUnit 5 / Mockito 기반 테스트 코드 도입
+k6 기반 부하테스트를 통한 API 성능 및 병목 구간 분석
+🚀 주요 성과
+🏠 홈 API 응답시간 약 10초 → 3초 개선
+📱 5천 건 Push 처리시간 약 5분 → 10초대 단축
+⬆️ Spring Boot 2.3.4 → 2.7.18 메이저 버전 업그레이드
+🗄️ MySQL 5.7 → 8.0.33 → 8.4.9 업그레이드 및 데이터 마이그레이션
+💰 AWS 운영 비용 월 약 $536 → $323 수준으로 절감
+⚡ FCM 직접 발송 구조를 Kafka 기반 비동기 처리 구조로 전환
+🔄 Ehcache 기반 캐시를 Redis 기반 캐시 구조로 전환
+🤖 Gemini API + Redis 기반 Admin 고객 문의 요약 기능 구현
+📊 Prometheus / Grafana / Alertmanager 기반 모니터링 및 장애 알림 구축
+🚀 GitHub Actions 기반 CI/CD 및 AWS EC2 자동 배포 구축
+주요 개발
+커뮤니티 / 쿠폰 / Jelly 리뷰 / Jelly 룰렛 기능
+첫 구매 정책 및 대상자 산정 로직
+랭킹 정책 및 관련 로직 개선
+Scheduler 기반 주문 상태 변경 및 운영 업무 자동화
+Admin 기능 및 운영 개선
+파일 업로드 및 AWS S3 기반 파일 저장
+React 기반 Admin 화면 부분 전환
+에이치알인트로
 
----
+Backend Developer · 2022.03 ~ 2023.04
 
-### 에이치알인트로
+공공·금융 분야 Java / Spring 기반 SI 프로젝트 개발 및 유지보수
 
-**Backend Developer · 2022.03 ~ 2023.04**
+롯데캐피탈 인사평가 ERP 신규 구축
+농협 IT센터 레거시 시스템 전환
+파주시청 공공 시스템 유지보수
+JAS 직무분석 시스템 유지보수
+공통 라이브러리 및 MyBatis 기반 업무 로직 개발
+📌 Core Experience
+⚡ Performance
 
-공공·금융 분야 **Java / Spring 기반 SI 프로젝트** 개발 및 유지보수
+API / SQL / Index / Redis Cache 최적화 및 k6 기반 부하테스트
 
-- 롯데캐피탈 인사평가 ERP 신규 구축
-- 농협 IT센터 레거시 시스템 전환
-- 파주시청 공공 시스템 유지보수
-- JAS 직무분석 시스템 유지보수
-- 공통 라이브러리 및 MyBatis 기반 업무 로직 개발
+📨 Messaging
 
----
+Kafka 기반 비동기 처리 · Consumer 병렬 처리 · Retry / DLT
 
-## 📌 Core Experience
+🔴 Cache
 
-- **Performance** — API / SQL / Index / Cache 최적화
-- **Messaging** — Kafka 기반 비동기 처리 및 Retry / DLT
-- **Cache** — Ehcache → Redis 전환
-- **Infrastructure** — AWS EC2 / Docker 기반 운영
-- **CI/CD** — GitHub Actions 자동 배포
-- **Monitoring** — Prometheus / Grafana / Alertmanager
-- **AI** — Gemini API + Redis 기반 문의 요약
+Ehcache → Redis 전환 및 TTL 기반 캐싱
 
----
+☁️ Infrastructure
 
-## 🔗 Links
+AWS EC2 / RDS / S3 · Linux · Docker / Docker Compose · Nginx
 
-- [GitHub](https://github.com/swh7j)
-- [Notion](https://phrygian-pound-13d.notion.site/WooHyun-024718d0d910435ab962a275306c0aab)
-- Email: swh_77@naver.com
+🚀 CI/CD
+
+GitHub Actions 기반 테스트 · 빌드 · AWS EC2 자동 배포
+
+📊 Monitoring
+
+Spring Boot Actuator · Prometheus · Grafana · Alertmanager · Slack Alert
+
+🧪 Testing
+
+JUnit 5 · Mockito · Spring Boot Test 기반 테스트 코드 작성
+
+🤖 AI
+
+Gemini API + Redis 기반 Admin 고객 문의 요약 및 답변 초안 기능
