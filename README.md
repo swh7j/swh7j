@@ -57,7 +57,7 @@
 
 ### Backend
 
-☕ **Java** · 🌱 **Spring Boot** · 🔧 **Spring Framework** · 🌐 **REST API**
+☕ **Java** · 🌱 **Spring Boot** · 🔧 **Spring Framework** · 🌐 **REST API**　.　🔐 **Spring Security**　.　🎫 **JWT**
 
 ### Frontend
 
