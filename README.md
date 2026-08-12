@@ -29,13 +29,13 @@
 - Spring Security / JWT 기반 인증 구조 유지보수
 - AWS EC2 / Linux / Nginx / Tomcat 기반 서비스 운영
 - Docker / Docker Compose 기반 운영 환경 구성
+- Kubernetes 기반 배포 및 서비스 운영 구조 구성·검증
 - AWS S3 기반 파일 업로드 및 저장
 - JUnit 5 / Mockito 기반 테스트 코드 작성
 - GitHub Actions 기반 CI/CD 및 AWS EC2 자동 배포
 - Prometheus / Grafana / Alertmanager 기반 모니터링 구축
 - React 기반 Admin 화면 부분 전환
 - 기획 / 디자인 요구사항 확인 및 Figma 기반 UI·기능 협업
-- 개발 일정 및 기능 변경사항 공유를 통한 기획·디자인 협업
 
 #### 🚀 주요 성과
 
@@ -46,10 +46,14 @@
 - 💰 AWS 운영 비용 **월 약 $536 → $323 수준**으로 절감
 - ⚡ FCM 직접 발송 구조를 **Kafka 기반 비동기 처리 구조**로 전환
 - 🔄 Ehcache 기반 캐시를 **Redis 기반 캐시 구조**로 전환
+- 🏆 Scheduler 및 캐시 데이터 흐름을 개선하여 **주간/월간 랭킹 미노출 문제 해결**
+- 🔐 PG Noti 중복 처리로 발생하던 **재화 이중 차감 문제 해결**
+- ⏰ 동일 시간대에 집중되던 **14개 Scheduler 작업을 분산하여 동시 실행 문제 개선**
 - 🤖 Gemini API + Redis 기반 **Admin 고객 문의 요약 기능** 구현
 - 📊 Prometheus / Grafana / Alertmanager 기반 **모니터링 및 장애 알림** 구축
 - 🚀 GitHub Actions 기반 **CI/CD 및 AWS EC2 자동 배포** 구축
-- 🧪 k6 + Prometheus / Grafana 기반 API 부하테스트 및 성능 지표 검증 환경 구축
+- 🧪 k6 + Prometheus / Grafana 기반 **API 부하테스트 및 성능 지표 검증 환경 구축**
+- ☸️ Kubernetes 기반 **배포 및 서비스 운영 구조 구성·검증**
 - ⚛️ 기존 JSP Admin의 일부 화면을 React 기반으로 부분 전환
 
 #### 🧩 주요 개발
@@ -84,7 +88,7 @@
 
 ### 💻 Backend
 
-☕ **Java** · 🌱 **Spring Boot** · 🔧 **Spring Framework** · 🌐 **REST API**  
+☕ **Java** · 🌱 **Spring Boot** · 🔧 **Spring Framework** · 🌐 **REST API**
 🔐 **Spring Security** · 🎫 **JWT**
 
 ### 🖥 Frontend
@@ -101,11 +105,12 @@
 
 ### ⚡ Cache / Messaging
 
-🔴 **Redis** · 📨 **Apache Kafka** · 👥 **Consumer Group** · 🔄 **Retry / DLT**
+🔴 **Redis** · 🟠 **Ehcache** · 📨 **Apache Kafka** · 👥 **Consumer Group** · 🔄 **Retry / DLT**
 
 ### ☁️ Infrastructure / DevOps
 
-☁️ **AWS EC2 / RDS / S3** · 🐧 **Linux** · 🐳 **Docker / Docker Compose** · 🌐 **Nginx** · 🐈 **Tomcat**
+☁️ **AWS EC2 / RDS / S3** · 🐧 **Linux** · 🐳 **Docker / Docker Compose**
+☸️ **Kubernetes** · 🌐 **Nginx** · 🐈 **Tomcat**
 
 ### 🔄 CI/CD
 
@@ -125,7 +130,8 @@
 
 ### 🧰 Tools
 
-🐙 **GitHub / GitLab / Bitbucket** · 📮 **Postman** . 💬 **Slack** · 🎨 **Figma** · 🖥️ **Xshell** · 🔧 **Mantis**
+🐙 **GitHub / GitLab / Bitbucket** · 📮 **Postman** · 💬 **Slack**
+🎨 **Figma** · 🖥️ **Xshell** · 🔧 **Mantis**
 
 ---
 
