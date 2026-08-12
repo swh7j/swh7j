@@ -140,7 +140,7 @@ Prometheus / Grafana / Alertmanager 기반 모니터링 환경**을 직접 구�
 ### 🧰 Tools
 
 🐙 **GitHub / GitLab / Bitbucket** · 📮 **Postman** · 💬 **Slack**
-🎨 **Figma** · 🖥️ **Xshell** · 🔧 **Mantis**
+🎨 **Figma** · 🖥️ **Xshell** · 🔧 **Mantis** · 💻 **IntelliJ IDEA / VS Code**
 
 ---
 
