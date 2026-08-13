@@ -67,7 +67,7 @@ Prometheus / Grafana / Alertmanager 기반 모니터링 환경**을 직접 구�
 
 #### 🧩 주요 개발
 
-- 커뮤니티 / 쿠폰 / Jelly 리뷰 / Jelly 룰렛 기능
+- 신규 기능(커뮤니티, 쿠폰, 룰렛, Jelly 리뷰) REST API 설계·명세 작성 및 구현
 - 첫 구매 정책 및 대상자 산정 로직
 - 랭킹 정책 및 관련 로직 개선
 - Scheduler 기반 주문 상태 변경 및 운영 업무 자동화
