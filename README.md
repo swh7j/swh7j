@@ -47,5 +47,5 @@ Java · Spring Boot 기반 실서비스를 개발하고 운영해온 백엔드 �
 
 ## 🔗 Links
 
-- **Portfolio:** [Notion Portfolio](https://phrygian-pound-13d.notion.site/WooHyun-024718d0d910435ab962a275306c0aab)
+- **Portfolio:** [Notion](https://phrygian-pound-13d.notion.site/WooHyun-024718d0d910435ab962a275306c0aab)
 - **Email:** [swh_77@naver.com](mailto:swh_77@naver.com)
