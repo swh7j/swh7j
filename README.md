@@ -4,6 +4,12 @@ Java · Spring Boot 기반 실서비스를 개발하고 운영해온 백엔드 �
 
 모바일 커머스 서비스의 App API, Admin, DB부터 AWS 인프라, 배포까지 개발과 운영 전반을 맡고 있습니다. 느린 API, 결제 중복 차감, 새는 비용 같은 문제를 원인부터 찾아 SQL 개선·캐시·비동기 처리 등으로 해결해왔습니다.
 
+## 🔗 Links
+
+- **Portfolio:** [Notion](https://app.notion.com/p/WooHyun-Shin-3cf668db12de8076b424e7e5ba00d683)
+- **Email:** [swh_77@naver.com](mailto:swh_77@naver.com)
+- **Demo** [데모사이트](https://34-83-27-82.sslip.io/c/demo)
+
 ## 🚀 Key Achievements
 
 - **API 성능 개선:** 홈 API 응답 시간 9.75초 → 0.73초
@@ -56,9 +62,3 @@ Java · Spring Boot 기반 실서비스를 개발하고 운영해온 백엔드 �
 
 - 재정·결산보고서, 주보로 예배 PPT 만들기, 앨범, 악보 편집, 백업
 - Spring Boot 4, Java 17, React 19, SQLite, GCP, Caddy
-
-## 🔗 Links
-
-- **Portfolio:** [Notion](https://app.notion.com/p/WooHyun-Shin-3cf668db12de8076b424e7e5ba00d683)
-- **Email:** [swh_77@naver.com](mailto:swh_77@naver.com)
-- **Demo** [데모사이트](https://34-83-27-82.sslip.io/c/demo)
