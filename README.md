@@ -49,7 +49,7 @@ Java · Spring Boot 기반 실서비스를 개발하고 운영해온 백엔드 �
 ## 📂 Side Project
 
 ### [교회 관리 시스템](https://github.com/swh7j/churchService)
-**2026.11 – 현재 · 실제 교회 한 곳에서 운영 중**
+**2026.11 – 현재 · 실제 교회에서 운영 중**
 
 기획과 구조 설계는 직접 하고 Claude Code와 함께 개발한 교회 관리 시스템
 
