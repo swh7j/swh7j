@@ -40,7 +40,7 @@ Java · Spring Boot 기반 실서비스를 개발하고 운영해온 백엔드 �
 - Figma 기반 REST API 설계·명세 작성, 홈 API 조회 성능 개선
 - Redis·Ehcache 캐시와 Kafka 기반 Push 비동기 발송
 - 가상계좌 중복 차감 수정, Scheduler 14개 실행 시간 분산
-- Spring Security / JWT, Apple 로그인 인증 유지보수
+- Spring Security / JWT 로그인 인증 유지보수
 - AWS EC2·RDS, Nginx 운영과 장애 대응, 운영 서버 보안 점검
 - JUnit 5 / Mockito 테스트, GitHub Actions 배포 자동화
 
