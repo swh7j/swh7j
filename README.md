@@ -6,7 +6,7 @@ Java · Spring Boot 기반 실서비스를 개발하고 운영해온 백엔드 �
 
 ## 🔗 Links
 
-- **Portfolio:** [Notion](https://app.notion.com/p/WooHyun-Shin-3cf668db12de8076b424e7e5ba00d683)
+- **Portfolio:** https://app.notion.com/p/WooHyun-Shin-3cf668db12de8076b424e7e5ba00d683
 - **Email:** [swh_77@naver.com](mailto:swh_77@naver.com)
 - **Demo** [교회관리 시스템(운영중)](https://34-83-27-82.sslip.io/c/demo)
 
